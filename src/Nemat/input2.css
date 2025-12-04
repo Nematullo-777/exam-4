@@ -1,0 +1,46 @@
+.bgg {
+    background-image: url(./image/Mask\ Group\ \(8\).png);
+    color: white;
+    padding-left: 135px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    margin-left: 80px;
+    border-radius: 8px;
+}
+
+.bgg2 {
+    background-image: url(./image/Mask\ Group\ \(9\).png);
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-top: 32px;
+    padding-bottom: 33px;
+}
+.bgg3 {
+    background-image: url(./image/Mask\ Group\ \(10\).png);
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-top: 32px;
+    padding-bottom: 33px;
+}
+
+
+@media (max-width: 500px) {
+    .bgg {
+        padding-left: 40px;
+        padding-bottom: 0px;
+        margin-left: 0;
+        background-color: #6F73EE;
+    }
+    .bgg2 {
+        padding-left: 20px;
+        background-position: center;
+        
+    }
+
+    .bgg3 {
+        padding-left: 20px;
+        background-position: center;
+
+    }
+
+}
